@@ -1,4 +1,4 @@
-# 🚨 Incident Report: Creating the Alert Rule (Potential Impossible Travel) 🚨
+# 🚨 Incident Report: Create Alert Rule (Potential Impossible Travel) 🚨
 
 ---![image (9)](https://github.com/user-attachments/assets/42aa61a4-9d4a-41da-b0e3-e3456860fab3)
 
