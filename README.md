@@ -1,6 +1,6 @@
 # 🚨 Incident Report: Create Alert Rule (Potential Impossible Travel) 🚨
 
----![image (9)](https://github.com/user-attachments/assets/42aa61a4-9d4a-41da-b0e3-e3456860fab3)
+![image (10)](https://github.com/user-attachments/assets/0549c26d-254c-424c-8d17-a24e4819b9f3)
 
 ## 📝 **Explanation**  
 Corporations often have strict policies prohibiting:  
