@@ -105,11 +105,11 @@ SigninLogs
 ## ✅ **Closure**  
 1. **Review Incident:**  
    - Confirm resolution and update notes.  
-   - Mark the incident as a **True Positive** or **False Positive** (based on findings).  
+   - Mark the incident as a **Benign Positive** or **False Positive** (based on findings).  
 2. **Finalize Report:**  
    - Submit the report and close the case in Sentinel.  
 
-📌 **Status:** Closed as **True Benign**.  
+📌 **Status:** Closed as **Benign Positive**.  
 
 ---
 
