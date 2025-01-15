@@ -25,7 +25,20 @@ Set up a Sentinel **Scheduled Query Rule** in Log Analytics to detect users logg
 1. **Trigger Conditions:**  
    - A user logs into two or more distinct locations within 7 days.  
 
-2. **KQL Query:**  
+2. **KQL Query:**
+
+```kql
+DeviceFileEvents
+| top 20 by Timestamp desc
+```
+```kql
+DeviceNetworkEvents
+| top 20 by Timestamp desc
+```
+```kql
+DeviceProcessEvents
+| top 20 by Timestamp desc
+``` 
 ```kql
 let TimePeriodThreshold = timespan(7d);
 let NumberOfDifferentLocationAllowed = 1;
